@@ -1,1 +1,1 @@
-<!-- In this projects i used animation library to modify and add animations to template -->
+-- In this projects i used animation library to modify and add animations to template 
